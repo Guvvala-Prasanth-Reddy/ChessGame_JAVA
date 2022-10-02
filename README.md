@@ -1,1 +1,1 @@
-# ChessGame_JAVA
+# ChessGame in Python
